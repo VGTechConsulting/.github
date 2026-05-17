@@ -128,7 +128,7 @@ flowchart LR
 | Client | Profile | Engagement |
 |---|---|---|
 | **[HoverBot](https://hoverbot.ai)** | AI-native chatbot platform | Platform architecture &amp; agent workflows |
-| **[LabCaddy](https://labcaddy.com)** | Scientific product platform | Conversational AI search |
+| **LabCaddy** | Scientific product platform | Conversational AI search |
 | **B2B SaaS · Series B** | 15-person engineering org · APAC | Governed coding-agent rollout |
 | **Global professional services** | 5,000+ employees · multi-jurisdiction | Private LLM platform &amp; knowledge retrieval |
 
